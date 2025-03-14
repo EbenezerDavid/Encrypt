@@ -1,3 +1,11 @@
+/*
+
+这是定义加密和解密的文件
+
+*/
+
+
+
 #include <string.h>
 #include "puzzle.h"
 
