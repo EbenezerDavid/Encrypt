@@ -1,9 +1,9 @@
-# Tao's Editor
+# Encrypt tool
 
 A simple encrypt tool.
 
 
-
+![GitHub License](https://img.shields.io/github/license/EbenezerDavid/Encrypt)
 
 ![Static Badge](https://img.shields.io/badge/Language-C-green)
 
